@@ -14,7 +14,6 @@ long_description = (here / "README.md").read_text(encoding="utf-8")
 install_requires = [
     "numpy",
     "onnxruntime",
-    "opencv-python-headless",
     "pillow",
     "pooch",
     "pymatting",
